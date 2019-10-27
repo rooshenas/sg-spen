@@ -16,8 +16,9 @@ usage: ml-classification.py [-h] [-lr [LEARNING_RATE]] [-ir [INF_RATE]] <br>
                             [-mw [MARGIN_WEIGHT]] [-sm [SCORE_MARGIN]] <br>
                             [-l2 [L2_PENALTY]] [-dp [DROPOUT]] <br>
                             [-ip [INF_L2_PENALTY]] <br>
-
-optional arguments:
+                           
+<br>
+optional arguments: <br>
   -h, --help            show this help message and exit <br>
   -lr [LEARNING_RATE]   Learning rate [0.001] <br>
   -ir [INF_RATE]        Inference rate (eta) [0.5] <br>
