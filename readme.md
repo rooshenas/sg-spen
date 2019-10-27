@@ -30,8 +30,9 @@ optional arguments: <br>
   -dp [DROPOUT]         Dropout [0.01] <br>
   -ip [INF_L2_PENALTY]  Inf L2 penalty [0.01] <br>
 
+<br><br>
 
-To execute the code with default params: <br><br>
+To execute the code with default params: <br>
 
 cd multilabel <br>
 python ml-classification.py
