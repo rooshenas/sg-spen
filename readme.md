@@ -1,4 +1,4 @@
-This code runs SG-SPEN for the multi-label classification task. <br><
+This code runs SG-SPEN for the multi-label classification task. <br>
 To read about SG-SPEN, see Search-Guided, Lightly-Supervised Training of Structured Prediction Energy Networks (Rooshenas et al., 2019). <br><br>
 
 The code is in Python2.<br>
