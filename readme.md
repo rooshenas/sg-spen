@@ -1,22 +1,21 @@
-This code runs SG-SPEN for the multi-label classification task.
+This code runs SG-SPEN for the multi-label classification task. <br><br>
 
-The code is in Python2.
+The code is in Python2.<br><br>
 
-It has been written based on Tensorflow.
+It has been written based on Tensorflow. <br><br>
 
-Installing the requirements:
+Installing the requirements:<br>
 pip install -r requirements.txt
 
-Hyper-parameters:
+Hyper-parameters:<br>
 python ml-classification.py -h
 
 
-usage: ml-classification.py [-h] [-lr [LEARNING_RATE]] [-ir [INF_RATE]]
-                            [-nr [NOISE_RATE]] [-it [INF_ITER]]
-                            [-mw [MARGIN_WEIGHT]] [-sm [SCORE_MARGIN]]
-                            [-l2 [L2_PENALTY]] [-dp [DROPOUT]]
-                            [-ip [INF_L2_PENALTY]]
-
+usage: ml-classification.py [-h] [-lr [LEARNING_RATE]] [-ir [INF_RATE]] <br>
+                            [-nr [NOISE_RATE]] [-it [INF_ITER]] <br>
+                            [-mw [MARGIN_WEIGHT]] [-sm [SCORE_MARGIN]] <br>
+                            [-l2 [L2_PENALTY]] [-dp [DROPOUT]] <br>
+                            [-ip [INF_L2_PENALTY]] <br>
 
 optional arguments:
   -h, --help            show this help message and exit <br>
@@ -31,8 +30,8 @@ optional arguments:
   -ip [INF_L2_PENALTY]  Inf L2 penalty [0.01] <br>
 
 
-To execute the code with default params: 
+To execute the code with default params: <br><br>
 
-cd multilabel
+cd multilabel <br>
 python ml-classification.py
 
